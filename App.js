@@ -1,8 +1,9 @@
 import React, { useState } from "react";
 import { StyleSheet } from "react-native";
-import { createAppContainer } from "react-navigation";
+
 // import { useScreens } from "react-native-screens";
 import { enableScreens } from "react-native-screens";
+
 // Font
 import * as Font from "expo-font";
 import AppLoading from "expo-app-loading";
